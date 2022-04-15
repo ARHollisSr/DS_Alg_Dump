@@ -1,0 +1,15 @@
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+D:\Documents\_CodeDump\DS_Algo_Dump\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
